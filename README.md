@@ -5,5 +5,5 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Coruscant11&theme=nord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coruscant11&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coruscant11&langs_count=6&theme=nord&count_private=true)
 
