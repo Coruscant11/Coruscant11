@@ -1,11 +1,9 @@
-### Hi there 👋
+### Yo 👋
 
-## Master Student at Nice-SophiaAntipolis
+## Computer Science Master Student at Nice Sophia Antipolis
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Coruscant11?cardType=github&theme=nord)](https://git.io/awesome-stats-card)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Coruscant11&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Coruscant11&theme=nord)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coruscant11&layout=compact&bg=blackt&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coruscant11&theme=nord)
 
-![trophy](https://github-readme-stats.vercel.app/api?username=Coruscant11&theme=onedark)
