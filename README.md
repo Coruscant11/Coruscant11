@@ -1,6 +1,6 @@
 ### Yo 👋
 
-## Computer Science Master Student at Nice Sophia Antipolis
+## Computer Science Student at Nice Sophia Antipolis
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Coruscant11&count_private=true&theme=nord)
